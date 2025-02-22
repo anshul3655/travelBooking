@@ -58,7 +58,7 @@ import Toast from 'react-native-simple-toast';
   
 
   const handleGoogleSignUp = () => {
-    Alert.alert('Google Sign-In', 'Google Sign-In functionality coming soon!');
+    Alert.alert('Google ign-In', 'Google Sign-In functionality coming soon!');
   };
 
   return (
